@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Three.js, MongoDB, Google Cloud Services.<br>💬 Ask me about JavaScript, React.Js<br>📫 How to reach me biswajeetRaut382@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/BiswajeetRaut<br>📄 Know about my experiences https://drive.google.com/file/d/1fb88yv9AC2c4qqzxUi0cm3EBhiV4PInK/view?usp=sharing](https://drive.google.com/file/d/17hidxULpR4zqij3Qz-D2aAYG1x7YbGHW/view?usp=sharing
+🌱 I’m currently learning Three.js, MongoDB, Google Cloud Services.<br>💬 Ask me about JavaScript, React.Js<br>📫 How to reach me biswajeetRaut382@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/BiswajeetRaut<br>📄 Know about my experiences 
+https://drive.google.com/file/d/17hidxULpR4zqij3Qz-D2aAYG1x7YbGHW/view?usp=sharing
 <img align="center" height="50%" width="80%" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif">
 
 # 💻 Tech Stack:
