@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js,Prisma.<br>💬 Ask me about JavaScript, React.Js<br>📫 How to reach me biswajeetRaut382@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/BiswajeetRaut<br>📄 Know about my experiences 
+🌱 I’m currently learning Terraform.<br>💬 Ask me about JavaScript, React.Js<br>📫 How to reach me biswajeetRaut382@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/BiswajeetRaut<br>📄 Know about my experiences 
 https://drive.google.com/file/d/13-997zoI7jnvtWHQLxWrRt78UYJm-E8b/view?usp=sharing
 <br> 🌍 Vist my Portfolio https://clone-7ea36.firebaseapp.com/ <br>
 <br>
